@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "7489244251",
+    "project_id": "shabilapp-58c33",
+    "storage_bucket": "shabilapp-58c33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7489244251:android:6ba5633162c9dce148437e",
+        "android_client_info": {
+          "package_name": "com.shabilapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7489244251-6e976djjdjtjec1c1be3eits88q53i8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7DNGQvbBM1CNCDszoLIFS75G36Cg-K_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7489244251-6e976djjdjtjec1c1be3eits88q53i8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
